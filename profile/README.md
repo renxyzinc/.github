@@ -1,4 +1,4 @@
-# Welcome to the Ren GitHub
+# Welcome to Ren
 
 ![](https://getren.xyz/wp-content/uploads/2023/07/Slide-16_9-1.svg)
 
